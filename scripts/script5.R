@@ -16,6 +16,10 @@
   sweepfilename = 'SARSCoV2_sweep_matrix.rds'         # output filename - vectorized sequences
   orthbasefilename = "orthBase.rds"                   # output filename - orthonormal matrix (if not preexisting)
 
+# If desirable, to perform multiple projections with different data, 
+# it is necessary to always use the same orthbase to ensure comparability between projections.  
+# Different orthonormal matrices generate different results that are not comparable with each other. 
+
 ## provide the parameters above, than copy and paste the commands below .....
 
 # ----------------------------------------------------------------------------- #
