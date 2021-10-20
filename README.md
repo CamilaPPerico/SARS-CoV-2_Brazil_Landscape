@@ -1,4 +1,4 @@
-# Real-time Landscape of SARS-CoV-2 pandemic in Brazil suggests an external P.1 variant origin
+# Real-time landscape of SARS-CoV-2 pandemic in Brazil suggests an external P.1 variant origin
 
 **Authors:**
 Camila P. Perico<sup>1,2</sup>, Camilla R. De Pierri<sup>1,3</sup>, Giuseppe P. Neto<sup>1</sup>, Danrley R. Fernandes<sup>1,2</sup>, Fabio O. Pedrosa<sup>2,3</sup>,Emanuel M. de Souza <sup>2,3</sup>, and Roberto T. Raittz <sup>1,2</sup>
