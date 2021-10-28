@@ -11,3 +11,5 @@ For the complete analysis, use the script in this order:
 **script 5:** SWeeP projection of sequences in vectors
 
 **script 6:** Consensus Clustering step
+
+**Sample_GISAID_Release0609.fasta** Sample of GISAID data from release 609 to run a pipeline test
