@@ -9,11 +9,11 @@
   library(stringi)
 
 ## define the parameters here
-  inputfilepath = 'allprot0609.fasta'   # the GISAID file
-  outputfoldername = 'seqs'             # folder name for outputs fasta
-  onlythiscountry = TRUE                # if you want all the data, change to FALSE
-  country = 'Brazil'                    # specify the country that you desire to study
-  dataframename = 'Brazildataframe'     # name of the csv with basics information
+  inputfilepath = 'Sample_GISAID_Release0609.fasta' # the GISAID file 
+  outputfoldername = 'seqs'                         # folder name for outputs fasta
+  onlythiscountry = TRUE                            # if you want all the data, change to FALSE
+  country = 'Brazil'                                # specify the country that you desire to study
+  dataframename = 'Brazildataframe'                 # name of the csv with basics information
 
 
 ## provide the parameters above, than copy and paste the commands below .....
