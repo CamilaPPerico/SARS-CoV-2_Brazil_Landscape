@@ -6,9 +6,9 @@
 ## import libraries
     library(Rtsne)
 
-## inputfile - vectorized sequences
-    outputfoldername = 'consensusCLU'   # folder of consensus clustering
-    sweepfilename = 'SARSCoV2_sweep_matrix.rds'
+## input files 
+    outputfoldername = 'consensusCLU'             # folder of consensus clustering
+    sweepfilename = 'SARSCoV2_sweep_matrix.rds'   # vectorized sequences
 
 ## define principal parameters
 # After the visual analysis of the CDF curve, suppose that the optimal number of clusters is 4
