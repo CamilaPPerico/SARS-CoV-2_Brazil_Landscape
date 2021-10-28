@@ -14,4 +14,8 @@ For the complete analysis, use the script in this order:
 
 **script 7:** Visualization of clusters step through PCA and t-SNE methods
 
+**script 8:** Obtaining of the Consensus Phylogenetic Tree, with bootstrap values, by the Neighbor-Joining method
+
+**script 9:** Consensus Phylogenetic tree visualization step
+
 **Sample_GISAID_Release0609.fasta** Sample of GISAID data from release 609 to run a pipeline test
